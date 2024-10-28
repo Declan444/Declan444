@@ -7,12 +7,13 @@ For further information about my business experience and qualifications  go to m
 
 [Linkedln Page]([(https://www.linkedin.com/in/declan-lenahan-a0b4693a/)]
 
+I currently mentor startups and SME's on all aspects of business and also mentor on their digital requirements.
+
 
 - 🔭 I’m currently working on a complete e-commerce site which will be pinned in my repository when complete.
-- 🌱 I’m have learned html, css, javascript, python, and the django framework. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m have learned html, css, javascript, python, and the django framework.
+
+Below are examples of websites and apps that I have worked on and completed to show my capabilities and understanding of the ditital space.
 
 <!--
 **Declan444/Declan444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
