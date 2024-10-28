@@ -11,7 +11,7 @@ I currently mentor startups and SME's on all aspects of business and also mentor
 
 
 - 🔭 I’m currently working on a complete e-commerce site which will be pinned in my repository when complete.
-- 🌱 I’m have learned html, css, javascript, python, and the django framework.
+- 🌱 I have learned html, css, javascript, python, and the django framework.
 
 Below are examples of websites and apps that I have worked on and completed to show my capabilities and understanding of the ditital space.
 
