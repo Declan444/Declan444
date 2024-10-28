@@ -5,7 +5,7 @@ As the founder of Europharma Concepts, I have firsthand knowledge of what it tak
 
 For further information about my business experience and qualifications  go to my 
 
-[Linkedln Page]([(https://www.linkedin.com/in/declan-lenahan-a0b4693a/)]
+[Linkedln Page](https://www.linkedin.com/in/declan-lenahan-a0b4693a/)
 
 I currently mentor startups and SME's on all aspects of business and also mentor on their digital requirements.
 
